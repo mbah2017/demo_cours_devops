@@ -1,0 +1,6 @@
+services:
+  web:
+    image: "mbah81/demo_cours_devops:latest"
+    ports:
+      - "8501:8501"
+
